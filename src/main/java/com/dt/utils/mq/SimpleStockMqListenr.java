@@ -22,7 +22,7 @@ import java.util.Properties;
  * @Author jiangyao
  * @Date 2020/4/18 0:12
  **/
-//@Component
+@Component
 public class SimpleStockMqListenr {
 
     public static final String SIMPLE_STOCK_MQ_TOPIC = "SIMPLE_STOCK";
